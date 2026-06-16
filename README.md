@@ -19,14 +19,14 @@ The application creates a unique Call ID that can be shared with another user. O
 
 ## Features
 
-* 🎥 Real-time video and audio calling
-* 🔗 Unique Call ID generation
-* 📡 WebRTC peer-to-peer communication
-* 🌐 Socket.IO signaling server
-* 🎤 Webcam and microphone access
-* 📞 Create and join calls
-* ❌ Hang-up functionality
-* 🧊 STUN server configuration for NAT traversal
+*  Real-time video and audio calling
+*  Unique Call ID generation
+*  WebRTC peer-to-peer communication
+*  Socket.IO signaling server
+*  Webcam and microphone access
+*  Create and join calls
+*  Hang-up functionality
+*  STUN server configuration for NAT traversal
 
 ---
 
